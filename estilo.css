@@ -1,0 +1,68 @@
+html
+{
+	background:#C7A0FF;
+}
+
+body {
+	border: 2px solid black;
+    outline-style: solid;
+    outline-color: #0F35DE;
+	background: #A0CFFF;
+    outline-width: medium;
+	margin-right: 290px;
+    margin-left: 290px;   
+	background:#E8D8FF;
+	
+}
+
+h1 {
+	color: #DE0F96;
+	text-align: center;
+	text-shadow: 2px 2px 5px #1C0FDE;
+}
+h2{
+	
+	text-shadow: 2px 2px 5px #1C0FDE;
+}
+
+h4 {
+	text-decoration: underline; 
+	color:#4E07B6;
+	
+}
+
+h5{
+
+margin-left: 15px;
+	
+}
+p{
+
+	text-align: justify;
+	margin-right: 15px;
+  margin-left: 15px;
+	
+}
+
+table,td,th{
+	
+border: 2px solid black;
+  border-radius: 8px;
+  margin-right: 15px;
+  margin-left: 15px;
+  margin-top:15px;
+  margin-bottom:15px;
+}
+th{
+	
+	background-color:#A079D9;
+}
+.nota{
+	
+	text-align: center;
+}
+
+
+
+
+
